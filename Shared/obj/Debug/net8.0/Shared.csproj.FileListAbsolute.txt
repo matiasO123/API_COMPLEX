@@ -1,0 +1,17 @@
+D:\Portfolio\API REST\API\Shared\bin\Debug\net8.0\Shared.deps.json
+D:\Portfolio\API REST\API\Shared\bin\Debug\net8.0\Shared.dll
+D:\Portfolio\API REST\API\Shared\bin\Debug\net8.0\Shared.pdb
+D:\Portfolio\API REST\API\Shared\bin\Debug\net8.0\Application.dll
+D:\Portfolio\API REST\API\Shared\bin\Debug\net8.0\Application.pdb
+D:\Portfolio\API REST\API\Shared\obj\Debug\net8.0\Shared.csproj.AssemblyReference.cache
+D:\Portfolio\API REST\API\Shared\obj\Debug\net8.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\API REST\API\Shared\obj\Debug\net8.0\Shared.AssemblyInfoInputs.cache
+D:\Portfolio\API REST\API\Shared\obj\Debug\net8.0\Shared.AssemblyInfo.cs
+D:\Portfolio\API REST\API\Shared\obj\Debug\net8.0\Shared.csproj.CoreCompileInputs.cache
+D:\Portfolio\API REST\API\Shared\obj\Debug\net8.0\Shared.csproj.Up2Date
+D:\Portfolio\API REST\API\Shared\obj\Debug\net8.0\Shared.dll
+D:\Portfolio\API REST\API\Shared\obj\Debug\net8.0\refint\Shared.dll
+D:\Portfolio\API REST\API\Shared\obj\Debug\net8.0\Shared.pdb
+D:\Portfolio\API REST\API\Shared\obj\Debug\net8.0\ref\Shared.dll
+D:\Portfolio\API REST\API\Shared\bin\Debug\net8.0\Domain.dll
+D:\Portfolio\API REST\API\Shared\bin\Debug\net8.0\Domain.pdb

@@ -1,0 +1,17 @@
+D:\Portfolio\API REST\API\Persistence\bin\Debug\net8.0\Persistence.deps.json
+D:\Portfolio\API REST\API\Persistence\bin\Debug\net8.0\Persistence.dll
+D:\Portfolio\API REST\API\Persistence\bin\Debug\net8.0\Persistence.pdb
+D:\Portfolio\API REST\API\Persistence\bin\Debug\net8.0\Application.dll
+D:\Portfolio\API REST\API\Persistence\bin\Debug\net8.0\Domain.dll
+D:\Portfolio\API REST\API\Persistence\bin\Debug\net8.0\Application.pdb
+D:\Portfolio\API REST\API\Persistence\bin\Debug\net8.0\Domain.pdb
+D:\Portfolio\API REST\API\Persistence\obj\Debug\net8.0\Persistence.csproj.AssemblyReference.cache
+D:\Portfolio\API REST\API\Persistence\obj\Debug\net8.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Portfolio\API REST\API\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfoInputs.cache
+D:\Portfolio\API REST\API\Persistence\obj\Debug\net8.0\Persistence.AssemblyInfo.cs
+D:\Portfolio\API REST\API\Persistence\obj\Debug\net8.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Portfolio\API REST\API\Persistence\obj\Debug\net8.0\Persiste.61C28332.Up2Date
+D:\Portfolio\API REST\API\Persistence\obj\Debug\net8.0\Persistence.dll
+D:\Portfolio\API REST\API\Persistence\obj\Debug\net8.0\refint\Persistence.dll
+D:\Portfolio\API REST\API\Persistence\obj\Debug\net8.0\Persistence.pdb
+D:\Portfolio\API REST\API\Persistence\obj\Debug\net8.0\ref\Persistence.dll
